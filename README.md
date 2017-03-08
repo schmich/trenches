@@ -11,6 +11,6 @@
 
 ## TODO
 
-- Metadata: tags, date, technologies
+- Metadata: company/site, tags, date, technologies
 - Other sources: presentations, videos
 - Move to something richer than a GH repo
