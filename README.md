@@ -8,6 +8,7 @@
 - [Stack Overflow: The Hardware - 2016 Edition](https://nickcraver.com/blog/2016/03/29/stack-overflow-the-hardware-2016-edition/)
 - [Stack Overflow: How We Do Deployment - 2016 Edition](https://nickcraver.com/blog/2016/05/03/stack-overflow-how-we-do-deployment-2016-edition/)
 - [How Discord handles over a million requests per minute with Elixir’s GenStage](https://blog.discordapp.com/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage-8f899f0221b4#.lb9vf1xt5) ([HN](https://news.ycombinator.com/item?id=13161505))
+- [The million dollar engineering problem](https://segment.com/blog/the-million-dollar-eng-problem/) ([HN](https://news.ycombinator.com/item?id=13886885))
 
 ## TODO
 
