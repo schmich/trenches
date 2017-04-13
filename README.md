@@ -11,6 +11,7 @@
 - [The million dollar engineering problem](https://segment.com/blog/the-million-dollar-eng-problem/) ([HN](https://news.ycombinator.com/item?id=13886885))
 - [How Discord Indexes Billions of Messages](https://blog.discordapp.com/how-discord-indexes-billions-of-messages-e3d5e9be866f#.28jb4ff5c) ([HN](https://news.ycombinator.com/item?id=13887401))
 - [Debugging a Docker Heisenbug in production](https://medium.com/@loginoff/debugging-a-docker-heisenbug-in-production-586ccb265f7c) ([HN](https://news.ycombinator.com/item?id=13893229))
+- [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/) ([HN](https://news.ycombinator.com/item?id=14109158))
 
 ## TODO
 
